@@ -1,4 +1,4 @@
-Comparison of Major Clustering Approaches
+# Comparison of Major Clustering Approaches
 • Partitioning approach:
 	– Typical methods: k-means, k-medoids, CLARANS, k-Nearest Neighbors
 
